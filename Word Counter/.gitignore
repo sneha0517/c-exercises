@@ -1,0 +1,16 @@
+# Ignore compiled binary files
+word_counter
+
+# Ignore object files
+*.o
+
+# Ignore temporary files created by editors
+*.swp
+*.swo
+
+# Ignore backup files
+*~
+
+# Ignore build logs and temporary directories
+*.log
+/tmp

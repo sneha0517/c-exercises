@@ -43,12 +43,9 @@ Output
 ---
 
 ### Future Enhancements
-- [ ] Add a password strength indicator (weak, medium, strong) based on length and complexity.
-- [ ] Save generated passwords to a secure file or encrypted database.
-- [ ] Add an option to regenerate a new password with the same criteria.
-- [ ] Provide localization/multilanguage support for the GUI.
-- [ ] Offer a "Password History" feature to view recently generated passwords.
-
+- [ ] Add support for different character encodings.
+- [ ] Allow reading from standard input if no file is provided.
+- [ ] Provide detailed statistics for individual lines.
 
 
 
