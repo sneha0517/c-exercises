@@ -20,5 +20,5 @@ This repository contains a collection of C programming exercises designed for le
 #### Clone the Repository
 To get started with these exercises, clone the repository to your local system:
 ```bash
-git clone https://github.com/<your-username>/C-exercises.git
+git clone https://github.com/sneha0517/C-exercises.git
 cd C-exercises
